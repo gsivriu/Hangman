@@ -1,0 +1,20 @@
+.form-inline {
+    background-color: #fefefe;
+    position: absolute;
+    left: 0px;
+    width: 25%;
+  }
+.image {
+  position: absolute;
+  right: -50;
+  left: 0;
+  margin: auto;
+  width: 50%;
+}
+.wordDisplayed{
+  background-color: #fefefe;
+  position: absolute;
+  font-size: 30px;
+  right: 0px;
+  width: 25%;
+}
